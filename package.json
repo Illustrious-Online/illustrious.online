@@ -59,7 +59,7 @@
     "@chakra-ui/react": "^3.9.0",
     "@emotion/react": "^11.14.0",
     "@next/env": "^15.2.1",
-    "@sentry/nextjs": "^9",
+    "@sentry/nextjs": "^10",
     "color-mode": "^0.1.0",
     "critters": "^0.0.25",
     "lint-staged": "^15.4.3",
