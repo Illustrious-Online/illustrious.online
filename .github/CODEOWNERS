@@ -1,5 +1,6 @@
-# This is a comment
-# Specify code owners for specific paths
+# Default owners for everything
+*                                   @b3kN @3ncinasv3
 
-# All files in the repository
-*       @b3kN
+# CI/CD
+.github/                            @b3kN @3ncinasv3
+
