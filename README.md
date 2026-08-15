@@ -1,3 +1,20 @@
+> [!NOTE]
+> **This repository is archived and no longer deployed.**
+>
+> The Next.js app here once served the `illustrious.online` front page. That
+> domain is now served by the multi-tenant Sites renderer in
+> [`illustrious.platform`](https://github.com/Illustrious-Online/illustrious.platform);
+> nothing in this repository is built or deployed any more. Archived 2026-08-15.
+>
+> - **Application code** → [`illustrious.platform`](https://github.com/Illustrious-Online/illustrious.platform) (`apps/web`, `apps/sites-essentials`)
+> - **Cluster and deployment** → [`illustrious.infrastructure`](https://github.com/Illustrious-Online/illustrious.infrastructure)
+> - **Open issues** → the transactional-email epic moved to
+>   [illustrious.platform#251](https://github.com/Illustrious-Online/illustrious.platform/issues/251).
+>   The rest were closed as superseded by the 2026-07-30 product direction change
+>   (ADR 0007); the closing comments explain each one.
+>
+> History is kept for reference. Nothing here should be treated as current.
+
 # Illustrious Web
 
 ## Description
